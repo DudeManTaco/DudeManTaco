@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @DudeManTaco
+- 👀 I’m interested in Psych Engine Modding.
+- 🌱 I’m currently learning LUA.
+- 💞️ I’m looking to collaborate on uhhh, I dont' know.
+- 📫 If you want to chat, go on my discord: Dude_ManTaco#5387
